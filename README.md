@@ -1,2 +1,2 @@
 # JavaProjects
-A collection of small java programs
+A collection of small c# programs

@@ -1,0 +1,13 @@
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\week8\Opdracht8\Opdracht8\bin\Debug\netcoreapp3.1\Opdracht8.exe
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\week8\Opdracht8\Opdracht8\bin\Debug\netcoreapp3.1\Opdracht8.deps.json
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\week8\Opdracht8\Opdracht8\bin\Debug\netcoreapp3.1\Opdracht8.runtimeconfig.json
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\week8\Opdracht8\Opdracht8\bin\Debug\netcoreapp3.1\Opdracht8.runtimeconfig.dev.json
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\week8\Opdracht8\Opdracht8\bin\Debug\netcoreapp3.1\Opdracht8.dll
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\week8\Opdracht8\Opdracht8\bin\Debug\netcoreapp3.1\Opdracht8.pdb
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\week8\Opdracht8\Opdracht8\obj\Debug\netcoreapp3.1\Opdracht8.csprojAssemblyReference.cache
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\week8\Opdracht8\Opdracht8\obj\Debug\netcoreapp3.1\Opdracht8.csproj.CoreCompileInputs.cache
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\week8\Opdracht8\Opdracht8\obj\Debug\netcoreapp3.1\Opdracht8.AssemblyInfoInputs.cache
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\week8\Opdracht8\Opdracht8\obj\Debug\netcoreapp3.1\Opdracht8.AssemblyInfo.cs
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\week8\Opdracht8\Opdracht8\obj\Debug\netcoreapp3.1\Opdracht8.dll
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\week8\Opdracht8\Opdracht8\obj\Debug\netcoreapp3.1\Opdracht8.pdb
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\week8\Opdracht8\Opdracht8\obj\Debug\netcoreapp3.1\Opdracht8.genruntimeconfig.cache

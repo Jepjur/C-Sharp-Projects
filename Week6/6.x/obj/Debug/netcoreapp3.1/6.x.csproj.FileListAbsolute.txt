@@ -1,0 +1,13 @@
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\6.x\6.x\bin\Debug\netcoreapp3.1\6.x.exe
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\6.x\6.x\bin\Debug\netcoreapp3.1\6.x.deps.json
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\6.x\6.x\bin\Debug\netcoreapp3.1\6.x.runtimeconfig.json
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\6.x\6.x\bin\Debug\netcoreapp3.1\6.x.runtimeconfig.dev.json
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\6.x\6.x\bin\Debug\netcoreapp3.1\6.x.dll
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\6.x\6.x\bin\Debug\netcoreapp3.1\6.x.pdb
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\6.x\6.x\obj\Debug\netcoreapp3.1\6.x.csprojAssemblyReference.cache
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\6.x\6.x\obj\Debug\netcoreapp3.1\6.x.csproj.CoreCompileInputs.cache
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\6.x\6.x\obj\Debug\netcoreapp3.1\6.x.AssemblyInfoInputs.cache
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\6.x\6.x\obj\Debug\netcoreapp3.1\6.x.AssemblyInfo.cs
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\6.x\6.x\obj\Debug\netcoreapp3.1\6.x.dll
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\6.x\6.x\obj\Debug\netcoreapp3.1\6.x.pdb
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\6.x\6.x\obj\Debug\netcoreapp3.1\6.x.genruntimeconfig.cache

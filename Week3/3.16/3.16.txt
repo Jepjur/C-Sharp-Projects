@@ -1,0 +1,30 @@
+// Turn every second character into uppercase
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Chapter3
+{
+    class Opdracht16
+    {
+        public Opdracht16()
+        {
+            // Get user input and put it into a char array
+            // Loop over the array and turn every second char to uppercase
+
+            Console.WriteLine("Enter the string you wish to convert");
+            string input = Console.ReadLine().ToLower();
+            char[] chars = input.ToCharArray();
+            for (int i = 1; i < chars.Length; i += 2)
+            {
+                chars[i] = char.ToUpper(chars[i]);
+            }
+            string output = new string(chars);
+            Console.WriteLine(output);
+            Console.WriteLine("Press a key to exit the program");
+            Console.ReadKey();
+        }
+    }
+}

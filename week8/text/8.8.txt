@@ -1,0 +1,47 @@
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Opdracht8
+{
+    class Bankrekening
+    {
+        //Fields
+        double saldo;
+        double limiet;
+        int verrichtingen;
+
+        //Constructor
+        public Bankrekening()
+        {
+            saldo = 0;
+            limiet = 0;
+            verrichtingen = 0;
+        }
+
+        //Methods
+        public void InstellenLimiet(int limiet)
+        {
+            this.limiet = limiet;
+        }
+
+        public double GeldStorten(int geldbedrag)
+        {
+            saldo += geldbedrag;
+            verrichtingen++;
+            return saldo;
+        }
+
+        public double GeldAftrekken(int aftrekBedrag)
+        {
+            saldo -= aftrekBedrag;
+            verrichtingen++;
+            return saldo;
+        }
+
+        public void NummerVerrichtingen()
+        {
+            Console.WriteLine(verrichtingen);
+        }
+    }
+}

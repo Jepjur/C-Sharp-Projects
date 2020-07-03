@@ -1,0 +1,13 @@
+C:\Users\jaspe\source\repos\Mini-Project\Mini-Project\bin\Debug\netcoreapp3.1\Mini-Project.exe
+C:\Users\jaspe\source\repos\Mini-Project\Mini-Project\bin\Debug\netcoreapp3.1\Mini-Project.deps.json
+C:\Users\jaspe\source\repos\Mini-Project\Mini-Project\bin\Debug\netcoreapp3.1\Mini-Project.runtimeconfig.json
+C:\Users\jaspe\source\repos\Mini-Project\Mini-Project\bin\Debug\netcoreapp3.1\Mini-Project.runtimeconfig.dev.json
+C:\Users\jaspe\source\repos\Mini-Project\Mini-Project\bin\Debug\netcoreapp3.1\Mini-Project.dll
+C:\Users\jaspe\source\repos\Mini-Project\Mini-Project\bin\Debug\netcoreapp3.1\Mini-Project.pdb
+C:\Users\jaspe\source\repos\Mini-Project\Mini-Project\obj\Debug\netcoreapp3.1\Mini-Project.csprojAssemblyReference.cache
+C:\Users\jaspe\source\repos\Mini-Project\Mini-Project\obj\Debug\netcoreapp3.1\Mini-Project.csproj.CoreCompileInputs.cache
+C:\Users\jaspe\source\repos\Mini-Project\Mini-Project\obj\Debug\netcoreapp3.1\Mini-Project.AssemblyInfoInputs.cache
+C:\Users\jaspe\source\repos\Mini-Project\Mini-Project\obj\Debug\netcoreapp3.1\Mini-Project.AssemblyInfo.cs
+C:\Users\jaspe\source\repos\Mini-Project\Mini-Project\obj\Debug\netcoreapp3.1\Mini-Project.dll
+C:\Users\jaspe\source\repos\Mini-Project\Mini-Project\obj\Debug\netcoreapp3.1\Mini-Project.pdb
+C:\Users\jaspe\source\repos\Mini-Project\Mini-Project\obj\Debug\netcoreapp3.1\Mini-Project.genruntimeconfig.cache

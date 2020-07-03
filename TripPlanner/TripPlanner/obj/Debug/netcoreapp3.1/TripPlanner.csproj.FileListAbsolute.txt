@@ -1,0 +1,26 @@
+C:\Users\jaspe\source\repos\TripPlanner\TripPlanner\bin\Debug\netcoreapp3.1\TripPlanner.exe
+C:\Users\jaspe\source\repos\TripPlanner\TripPlanner\bin\Debug\netcoreapp3.1\TripPlanner.deps.json
+C:\Users\jaspe\source\repos\TripPlanner\TripPlanner\bin\Debug\netcoreapp3.1\TripPlanner.runtimeconfig.json
+C:\Users\jaspe\source\repos\TripPlanner\TripPlanner\bin\Debug\netcoreapp3.1\TripPlanner.runtimeconfig.dev.json
+C:\Users\jaspe\source\repos\TripPlanner\TripPlanner\bin\Debug\netcoreapp3.1\TripPlanner.dll
+C:\Users\jaspe\source\repos\TripPlanner\TripPlanner\bin\Debug\netcoreapp3.1\TripPlanner.pdb
+C:\Users\jaspe\source\repos\TripPlanner\TripPlanner\obj\Debug\netcoreapp3.1\TripPlanner.csprojAssemblyReference.cache
+C:\Users\jaspe\source\repos\TripPlanner\TripPlanner\obj\Debug\netcoreapp3.1\TripPlanner.csproj.CoreCompileInputs.cache
+C:\Users\jaspe\source\repos\TripPlanner\TripPlanner\obj\Debug\netcoreapp3.1\TripPlanner.AssemblyInfoInputs.cache
+C:\Users\jaspe\source\repos\TripPlanner\TripPlanner\obj\Debug\netcoreapp3.1\TripPlanner.AssemblyInfo.cs
+C:\Users\jaspe\source\repos\TripPlanner\TripPlanner\obj\Debug\netcoreapp3.1\TripPlanner.dll
+C:\Users\jaspe\source\repos\TripPlanner\TripPlanner\obj\Debug\netcoreapp3.1\TripPlanner.pdb
+C:\Users\jaspe\source\repos\TripPlanner\TripPlanner\obj\Debug\netcoreapp3.1\TripPlanner.genruntimeconfig.cache
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\TripPlanner\TripPlanner\bin\Debug\netcoreapp3.1\TripPlanner.exe
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\TripPlanner\TripPlanner\bin\Debug\netcoreapp3.1\TripPlanner.deps.json
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\TripPlanner\TripPlanner\bin\Debug\netcoreapp3.1\TripPlanner.runtimeconfig.json
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\TripPlanner\TripPlanner\bin\Debug\netcoreapp3.1\TripPlanner.runtimeconfig.dev.json
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\TripPlanner\TripPlanner\bin\Debug\netcoreapp3.1\TripPlanner.dll
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\TripPlanner\TripPlanner\bin\Debug\netcoreapp3.1\TripPlanner.pdb
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\TripPlanner\TripPlanner\obj\Debug\netcoreapp3.1\TripPlanner.csprojAssemblyReference.cache
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\TripPlanner\TripPlanner\obj\Debug\netcoreapp3.1\TripPlanner.csproj.CoreCompileInputs.cache
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\TripPlanner\TripPlanner\obj\Debug\netcoreapp3.1\TripPlanner.AssemblyInfoInputs.cache
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\TripPlanner\TripPlanner\obj\Debug\netcoreapp3.1\TripPlanner.AssemblyInfo.cs
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\TripPlanner\TripPlanner\obj\Debug\netcoreapp3.1\TripPlanner.dll
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\TripPlanner\TripPlanner\obj\Debug\netcoreapp3.1\TripPlanner.pdb
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\TripPlanner\TripPlanner\obj\Debug\netcoreapp3.1\TripPlanner.genruntimeconfig.cache

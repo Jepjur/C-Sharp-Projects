@@ -1,0 +1,26 @@
+C:\Users\jaspe\source\repos\StringConverter\StringConverter\bin\Debug\netcoreapp3.1\StringConverter.exe
+C:\Users\jaspe\source\repos\StringConverter\StringConverter\bin\Debug\netcoreapp3.1\StringConverter.deps.json
+C:\Users\jaspe\source\repos\StringConverter\StringConverter\bin\Debug\netcoreapp3.1\StringConverter.runtimeconfig.json
+C:\Users\jaspe\source\repos\StringConverter\StringConverter\bin\Debug\netcoreapp3.1\StringConverter.runtimeconfig.dev.json
+C:\Users\jaspe\source\repos\StringConverter\StringConverter\bin\Debug\netcoreapp3.1\StringConverter.dll
+C:\Users\jaspe\source\repos\StringConverter\StringConverter\bin\Debug\netcoreapp3.1\StringConverter.pdb
+C:\Users\jaspe\source\repos\StringConverter\StringConverter\obj\Debug\netcoreapp3.1\StringConverter.csprojAssemblyReference.cache
+C:\Users\jaspe\source\repos\StringConverter\StringConverter\obj\Debug\netcoreapp3.1\StringConverter.csproj.CoreCompileInputs.cache
+C:\Users\jaspe\source\repos\StringConverter\StringConverter\obj\Debug\netcoreapp3.1\StringConverter.AssemblyInfoInputs.cache
+C:\Users\jaspe\source\repos\StringConverter\StringConverter\obj\Debug\netcoreapp3.1\StringConverter.AssemblyInfo.cs
+C:\Users\jaspe\source\repos\StringConverter\StringConverter\obj\Debug\netcoreapp3.1\StringConverter.dll
+C:\Users\jaspe\source\repos\StringConverter\StringConverter\obj\Debug\netcoreapp3.1\StringConverter.pdb
+C:\Users\jaspe\source\repos\StringConverter\StringConverter\obj\Debug\netcoreapp3.1\StringConverter.genruntimeconfig.cache
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\StringConverter\StringConverter\bin\Debug\netcoreapp3.1\StringConverter.exe
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\StringConverter\StringConverter\bin\Debug\netcoreapp3.1\StringConverter.deps.json
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\StringConverter\StringConverter\bin\Debug\netcoreapp3.1\StringConverter.runtimeconfig.json
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\StringConverter\StringConverter\bin\Debug\netcoreapp3.1\StringConverter.runtimeconfig.dev.json
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\StringConverter\StringConverter\bin\Debug\netcoreapp3.1\StringConverter.dll
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\StringConverter\StringConverter\bin\Debug\netcoreapp3.1\StringConverter.pdb
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\StringConverter\StringConverter\obj\Debug\netcoreapp3.1\StringConverter.csprojAssemblyReference.cache
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\StringConverter\StringConverter\obj\Debug\netcoreapp3.1\StringConverter.csproj.CoreCompileInputs.cache
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\StringConverter\StringConverter\obj\Debug\netcoreapp3.1\StringConverter.AssemblyInfoInputs.cache
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\StringConverter\StringConverter\obj\Debug\netcoreapp3.1\StringConverter.AssemblyInfo.cs
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\StringConverter\StringConverter\obj\Debug\netcoreapp3.1\StringConverter.dll
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\StringConverter\StringConverter\obj\Debug\netcoreapp3.1\StringConverter.pdb
+C:\Users\jaspe\source\repos\Endoor-2020-Group4\Jasper Projects\Jasper-016-C#\StringConverter\StringConverter\obj\Debug\netcoreapp3.1\StringConverter.genruntimeconfig.cache
